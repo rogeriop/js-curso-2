@@ -1,3 +1,5 @@
+//02 Funções
+
 const read = require('readline-sync');
 
 // função que exibe "Olá, mundo!" no console
