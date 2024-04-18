@@ -81,9 +81,9 @@ function tabuadaDeUmNumero(numero) {
     } 
 }
 
-//6. Crie uma função que mostre na tela a tabuada de um número dado como parâmetro.
-const tabuadaDe = Number(read.question('Informe um numero inteiro de 1 a 10: '));
-tabuadaDeUmNumero(tabuadaDe);
+// //6. Crie uma função que mostre na tela a tabuada de um número dado como parâmetro.
+// const tabuadaDe = Number(read.question('Informe um numero inteiro de 1 a 10: '));
+// tabuadaDeUmNumero(tabuadaDe);
 
 
 // //5. Crie uma função que mostre na tela a área e o perímetro de uma sala circular, utilizando seu raio que será fornecido como parâmetro. Considere Pi = 3,14.
@@ -113,6 +113,4 @@ tabuadaDeUmNumero(tabuadaDe);
 
 // //1. Crie uma função que calcule o índice de massa corporal (IMC) de uma pessoa, a partir de sua altura, em metros, e peso, em quilogramas, que serão recebidos como parâmetro.
 // interaCalculoIMC();
-
-
 
