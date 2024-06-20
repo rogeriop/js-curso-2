@@ -1,5 +1,9 @@
 
-//04 Listas
+/*
+Nome      : Curso de Logica de programacao: explore funcoes e listas
+Observação: 04 Listas
+Data      :
+*/
 
 const read = require('readline-sync');
 
